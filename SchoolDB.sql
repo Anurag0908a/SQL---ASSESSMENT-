@@ -1,3 +1,5 @@
+-- Question 2: Open school database, then select student table and use following SQL statements. TYPE THE STATEMENT, PRESS ENTER AND NOTE THE OUTPUT  
+
 create database schoolDB;
 use schoolDB;
 
